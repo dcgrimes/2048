@@ -22,6 +22,12 @@ h1.title {
   display: block;
   float: left; }
 
+div {
+  padding: 20px;
+  background-color: black;
+  margin: 10px;
+}
+
 @-webkit-keyframes move-up {
   0% {
     top: 25px;
